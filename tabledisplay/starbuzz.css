@@ -69,3 +69,20 @@ a:visited {
 #tableRow {
   display: table-row;
 }
+#headerSlogan {
+  float: right;
+}
+#award {
+  position: absolute;
+  top: 30px;
+  left: 50%;
+}
+#coupon {
+  position: fixed;
+  top: 350px;
+  left: -90px;
+}
+#coupon a,
+img {
+  border: none;
+}
